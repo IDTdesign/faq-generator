@@ -1,0 +1,10 @@
+<% if (@render == false) : %>
+    <a class="faq-toc-link" href="#<%- @document.alias %>"><%- @document.title %></a>
+<% else : %>
+    <section class="faq-item" id="<%- @document.alias %>">
+        <<%- @render %> class="faq-header"><a class="faq-header-anchor" href="#<%- @document.alias %>">#</a><%- @document.title %></<%- @render %>>
+        <div>
+            <%- @content %>
+        </div>
+    </section>
+<% end %>

@@ -1,0 +1,105 @@
+---
+layout: mvno
+title: MVNO FAQ
+faqpath: 'mvno/es-us/'
+---
+
+<div class="content base">
+    <nav class="row">
+        <div class="col-xxs-12 col-sm">
+            <h4><a href="#joining">Unirse a Boss Revolution Mobile</a></h4>
+            <div><a class="faq-toc-link" href="#new_phone"><strong>Activar un teléfono que compré de Boss Revolution</strong></a></div>
+            <ul class="faq-toc-list">
+                <li><%- @partial(@document.faqpath+'new_phone_new_number', false, {render: false}) %></li>
+                <li><%- @partial(@document.faqpath+'new_phone_keeping_number', false, {render: false}) %></li>
+                <li><%- @partial(@document.faqpath+'new_phone_existing_customer', false, {render: false}) %></li>
+            </ul>
+            <div><a class="faq-toc-link" href="#BYOD"><strong>Activar un teléfono que no compraste en Boss Revolution (BYOD)</strong></a></div>
+            <ul class="faq-toc-list">
+                <li><%- @partial(@document.faqpath+'backup_before', false, {render: false}) %></li>
+                <li><%- @partial(@document.faqpath+'compatible_phones', false, {render: false}) %></li>
+                <li><%- @partial(@document.faqpath+'my_phone_new_number', false, {render: false}) %></li>
+                <li><%- @partial(@document.faqpath+'my_phone_my_number', false, {render: false}) %></li>
+                <li><%- @partial(@document.faqpath+'my_phone_existing_customer', false, {render: false}) %></li>
+            </ul>
+            <div><%- @partial(@document.faqpath+'complete_activation', false, {render: false}) %></div>
+        </div>
+        <div class="col-xxs-12 col-sm-shrink col-flex-sm">
+            <div class="divider divider-vertical-sm flex-grow-sm space-out-v-mili-xxs space-out-v-zero-sm"></div>
+        </div>
+        <div class="col-xxs-12 col-sm">
+            <h4><a href="#using">Uso de Boss Revolution Mobile</a></h4>
+            <div><a class="faq-toc-link" href="#coverage"><strong>Cobertura</strong></a></div>
+            <ul class="faq-toc-list">
+                <li><%- @partial(@document.faqpath+'US_coverage', false, {render: false}) %></li>
+                <li><%- @partial(@document.faqpath+'roaming', false, {render: false}) %></li>
+                <li><%- @partial(@document.faqpath+'international_roaming', false, {render: false}) %></li>
+                <li><%- @partial(@document.faqpath+'rates', false, {render: false}) %></li>
+            </ul>
+            <div><a class="faq-toc-link" href="#account_center"><strong>Centro de cuenta</strong></a></div>
+            <ul class="faq-toc-list">
+                <li><%- @partial(@document.faqpath+'login', false, {render: false}) %></li>
+                <li><%- @partial(@document.faqpath+'manage_my_account', false, {render: false}) %></li>
+                <li><%- @partial(@document.faqpath+'usage', false, {render: false}) %></li>
+            </ul>
+            <div><%- @partial(@document.faqpath+'billing', false, {render: false}) %></div>
+            <div><%- @partial(@document.faqpath+'mobile_app', false, {render: false}) %></div>
+            <div><a class="faq-toc-link" href="#international_calling"><strong>Llamadas internacionales</strong></a></div>
+            <ul class="faq-toc-list">
+                <li><%- @partial(@document.faqpath+'calls', false, {render: false}) %></li>
+                <li><%- @partial(@document.faqpath+'plans', false, {render: false}) %></li>
+            </ul>
+            <div><%- @partial(@document.faqpath+'voicemail', false, {render: false}) %></div>
+            <div><%- @partial(@document.faqpath+'lost_or_stolen', false, {render: false}) %></div>
+        </div>
+    </nav>
+</div>
+<hr class="divider">
+<div class="content base flex-grow-xxs">
+    <section class="faq-item" id="joining">
+        <h2 class="text-center">Unirse a Boss Revolution Mobile</h2>
+        <section class="faq-item" id="new_phone">
+            <h3 class="faq-header"><a class="faq-header-anchor" href="#new_phone">#</a>Activar un teléfono que compré de Boss Revolution</h3>
+            <%- @partial(@document.faqpath+'new_phone_new_number', false, {render: 'h4'}) %>
+            <%- @partial(@document.faqpath+'new_phone_keeping_number', false, {render: 'h4'}) %>
+            <%- @partial(@document.faqpath+'new_phone_existing_customer', false, {render: 'h4'}) %>
+        </section>
+        <section class="faq-item" id="BYOD">
+            <h3 class="faq-header"><a class="faq-header-anchor" href="#BYOD">#</a>Activar un teléfono que no compraste en Boss Revolution (BYOD)</h3>
+            <%- @partial(@document.faqpath+'backup_before', false, {render: 'h4'}) %>
+            <%- @partial(@document.faqpath+'compatible_phones', false, {render: 'h4'}) %>
+            <%- @partial(@document.faqpath+'my_phone_new_number', false, {render: 'h4'}) %>
+            <%- @partial(@document.faqpath+'my_phone_my_number', false, {render: 'h4'}) %>
+            <%- @partial(@document.faqpath+'my_phone_existing_customer', false, {render: 'h4'}) %>
+        </section>
+        <%- @partial(@document.faqpath+'complete_activation', false, {render: 'h3'}) %>
+    </section>
+</div>
+<hr class="divider">
+<div class="content base flex-grow-xxs">
+    <section class="faq-item" id="using">
+        <h2 class="text-center">Uso de Boss Revolution Mobile</h2>
+        <section class="faq-item" id="coverage">
+            <h3 class="faq-header"><a class="faq-header-anchor" href="#coverage">#</a>Cobertura</h3>
+            <%- @partial(@document.faqpath+'US_coverage', false, {render: 'h4'}) %>
+            <%- @partial(@document.faqpath+'roaming', false, {render: 'h4'}) %>
+            <%- @partial(@document.faqpath+'international_roaming', false, {render: 'h4'}) %>
+            <%- @partial(@document.faqpath+'rates', false, {render: 'h4'}) %>
+        </section>
+        <section class="faq-item" id="account_center">
+            <h3 class="faq-header"><a class="faq-header-anchor" href="#account_center">#</a>Centro de cuenta</h3>
+            <%- @partial(@document.faqpath+'login', false, {render: 'h4'}) %>
+            <%- @partial(@document.faqpath+'manage_my_account', false, {render: 'h4'}) %>
+            <%- @partial(@document.faqpath+'usage', false, {render: 'h4'}) %>
+        </section>
+        <%- @partial(@document.faqpath+'billing', false, {render: 'h3'}) %>
+        <%- @partial(@document.faqpath+'mobile_app', false, {render: 'h3'}) %>
+        <section class="faq-item" id="international_calling">
+            <h3 class="faq-header"><a class="faq-header-anchor" href="#international_calling">#</a>Llamadas internacionales</h3>
+            <%- @partial(@document.faqpath+'calls', false, {render: 'h4'}) %>
+            <%- @partial(@document.faqpath+'plans', false, {render: 'h4'}) %>
+        </section>
+        <%- @partial(@document.faqpath+'voicemail', false, {render: 'h3'}) %>
+        <%- @partial(@document.faqpath+'lost_or_stolen', false, {render: 'h3'}) %>
+    </section>
+</div>
