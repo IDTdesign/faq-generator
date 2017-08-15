@@ -21,6 +21,7 @@
     "docpad-plugin-cleanurls": "~2.10.0",
     "docpad-plugin-coffeescript": "~2.6.0",
     "docpad-plugin-eco": "~2.2.1",
+    "docpad-plugin-geturl": "^2.1.1",
     "docpad-plugin-ghpages": "~2.6.1",
     "docpad-plugin-marked": "~2.4.0",
     "docpad-plugin-partials": "~2.11.0"

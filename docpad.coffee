@@ -16,9 +16,9 @@ docpadConfig = {
 		# Specify some site properties
 		site:
 			# The production url of our website
-			url: "//idtdesign.github.io/faq-generator/"
+			url: "//idtdesign.github.io/faq-generator"
 
-			canonicalUrl: "//idtdesign.github.io/faq-generator/"
+			canonicalUrl: "//idtdesign.github.io/faq-generator"
 
 			# The default title of our website
 			title: "FAQ"
@@ -62,13 +62,11 @@ docpadConfig = {
 		cleanurls:
 			static: true
 			trailingSlashes: true
+		ghpages:
+			deployRemote: 'deploy'
+			deployBranch: 'gh-pages'
 
 	environments:
-		ghpages:
-			templateData:
-				site:
-					url: '//idtdesign.github.io/faq-generator/'
-
 		development:
 			templateData:
 				site:
