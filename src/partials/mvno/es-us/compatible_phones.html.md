@@ -4,29 +4,30 @@ title: ¿Qué teléfonos son compatibles con Boss Revolution Mobile?
 alias: compatible_phones
 ---
 
-Boss Revolution Mobile utiliza la red Sprint®. Los teléfonos de la red Sprint® funcionarán con Boss Revolution Mobile siempre y cuando aprueben la Verificación de Elegibilidad Financiera de Sprint®. A continuación encontrarás más información sobre la Verificación de Idoneidad Financiera.
+Trae cualquier teléfono móvil, que sea elegible por Sprint®,  a Boss Revolution Mobile.
 
-Los siguientes teléfonos liberados funcionarán con Boss Revolution Mobile sin importar el operador que tengan:
+No todos los teléfonos móviles de Sprint® son aptos para la activación. Se aplican restricciones y exclusiones específicas. Es posible que algunas funciones de tu teléfono móvil de Sprint® no funcionen correctamente en Boss Revolution Mobile.
+
+Los servicios Boss Revolution Mobile se ofrecen en la Red Nacional Sprint®. Boss Revolution Mobile es responsable del servicio. Por favor llame a Boss Revolution Mobile con cualquier pregunta o comentario sobre el servicio.
+
+Sprint® es una marca registrada de Sprint.
+
+Los siguientes teléfonos desbloqueados también funcionarán con Boss Revolution Mobile si están en Verizon:
+
+* **iPhone:** 5C, 5S, 7, 7+
+
+Los siguientes teléfonos desbloqueados funcionarán con Boss Revolution Mobile, independientemente de la compañía en la que se encuentren:
 
 * **Nexus:** 5X, 6, 6P, Pixel, Pixel XL
 * **iPhone:** 6 and 6 Plus, 6S, 6S+, SE
 * **Motorola:** Moto X Pure Edition, G4, G4 Plus, G4 Play, G5, G5 Plus
-* **Samsung:** Galaxy S7 Special Edition, Galaxy S7 Edge Special Edition
+* **Samsung:** Galaxy S7 edición especial, Galaxy S7 Edge edición especial
 
-Los siguientes teléfonos liberados funcionarán con Boss Revolution Mobile solo si están en Sprint o Verizon:
+Si tu teléfono estaba en una cuenta de prepago y se compró en un minorista grande o de su proveedor por lo general tendrá que estar activo durante 12 meses consecutivos antes de ser compatible con Boss Revolution Mobile.
 
-* **iPhone:** 5C, 5S, 7, 7+
+Si compras un teléfono de un tercero y no logras conectarte a nuestra red, contacta al vendedor inmediatamente para que puedas adquirir un reembolso.
+Si el teléfono te pertenece, deberás ponerte en contacto con tu operador para resolver este problema.
 
-Todos los otros teléfonos que no se mencionaron deben estar en la red Sprint®. Si compras un teléfono no mencionado en la lista anterior, asegúrate de comprar uno de la red Sprint®.
+Antes de comprar un teléfono asegúrate de que viene de una fuente de confianza. Cualquier teléfono que haya sido clasificado como perdido o robado no se activará en Boss Revolution Mobile.
 
-Todos los teléfonos deben pasar por una Verificación de Elegibilidad Financiera de Sprint. Esto significa que si el teléfono tenía anteriormente una cuenta de pospago, el acuerdo de servicio o el cargo por terminación anticipada (ETF) debe pagarse primero.
-
-Si el teléfono estaba en una cuenta de prepago y se compró con un minorista grande o directamente de Sprint, por lo general tendrá que estar activo 12 meses consecutivos antes de ser compatible con Boss Revolution Mobile.
-
-Si compras un teléfono de un tercero y no aprueba la verificación de elegibilidad financiera al intentar iniciar sesión, comunícate con el vendedor de inmediato para arreglar un reembolso.
-
-Si el teléfono te pertenece, deberás comunicarte con tu operador para resolver el problema.
-
-Antes de comprar un teléfono, asegúrate de que provea de una fuente confiable. Cualquier teléfono que haya sido clasificado como extraviado o robado no se activará en Boss Revolution Mobile.
-
-Según la red del operador en la que haya estado anteriormente el teléfono, puede que necesites comprar una nueva tarjeta SIM que sea compatible con Boss Revolution. Puedes comprar una <a href="http://mobilestore.mvnodepot.com/phones" target="\_blank">aquí</a>.
+Quizas debas comprar una nueva tarjeta SIM compatible con Boss Revolution dependiendo del operador en el que tu teléfono haya estado previamente. Puedes comprarla ahora en <a href="http://mobilestore.mvnodepot.com/phones" target="\_blank">Boss Revolution Mobile Shop</a>.

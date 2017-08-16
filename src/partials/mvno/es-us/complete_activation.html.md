@@ -4,11 +4,11 @@ title: Completar la activación
 alias: complete_activation
 ---
 
-Después de completar la activación, enciende tu teléfono. Si se conecta a la red, está todo listo y ya puedes usar Boss Revolution Mobile.
+Después de completar la activación, apague su móvil y vuelva a encenderlo. Si se conecta a la red, su móvil está listo para usar Boss Revolution Mobil.
 
-Según el teléfono que uses puede que necesites utilizar un código especial  para reiniciar la red. (SCRTN).  No te preocupes dado que un SCRTN, también conocido como reajuste de operador, no eliminará información de tu teléfono.
+Según su modelo de teléfono, es posible que necesite usar un código especial para reinicializar la red. (SCRTN). No se preocupe dado que un SCRTN, también conocido como reajuste de operador, no eliminará información de su móvil.
 
-Hacer un SCRTN es fácil y solo toma un minuto. Introduce el código correspondiente en el teclado de marcación de tu teléfono. El teléfono se reinicializará un par de veces mientras se reajusta a nuestra red. Estos códigos variarán un poco según tu teléfono.
+Hacer un SCRTN es fácil y solo toma un minuto. Ingrese el código correspondiente de la siguiente lista en el teclado de su móvil. El teléfono se reinicializará un par de veces mientras se reajusta a nuestra red.
 
 <table>
     <thead>
@@ -37,6 +37,6 @@ Hacer un SCRTN es fácil y solo toma un minuto. Introduce el código correspondi
     </tbody>
 </table>
 
-Dale unos minutos a tu teléfono para reiniciarse completamente.
+Dele unos minutos a su móvil para reiniciarse completamente.
 
-On some iPhones a Network Update may be needed. On some iPhones a Carrier Update may be needed. For more information see <a href="https://support.apple.com/en-us/HT201270" target="\_blank">https://support.apple.com/en-us/HT201270</a>
+Será necesario hacer una actualización a los ajustes de operador con algunos móviles de iPhone. Para más información visite <a href="https://support.apple.com/en-us/HT201270" target="\_blank">https://support.apple.com/en-us/HT201270</a>
