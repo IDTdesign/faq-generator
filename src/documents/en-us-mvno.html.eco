@@ -10,7 +10,7 @@ faqpath: 'mvno/en-us/'
             <h4><a href="#joining">Joining Boss Revolution Mobile</a></h4>
             <div><a class="faq-toc-link" href="#new_phone"><strong>Activating a phone that I bought from Boss Revolution</strong></a></div>
             <ul class="faq-toc-list">
-                <li><%- @partial(@document.faqpath+'new_phone_new_number', false, {render: false}) %></li>
+                <li><%= @partial(@document.faqpath+'new_phone_new_number', false, {render: false}) %></li>
                 <li><%- @partial(@document.faqpath+'new_phone_keeping_number', false, {render: false}) %></li>
                 <li><%- @partial(@document.faqpath+'new_phone_existing_customer', false, {render: false}) %></li>
             </ul>

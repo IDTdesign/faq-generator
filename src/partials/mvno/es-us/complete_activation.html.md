@@ -39,4 +39,4 @@ Hacer un SCRTN es fácil y solo toma un minuto. Ingrese el código correspondien
 
 Dele unos minutos a su móvil para reiniciarse completamente.
 
-Será necesario hacer una actualización a los ajustes de operador con algunos móviles de iPhone. Para más información visite <a href="https://support.apple.com/en-us/HT201270" target="\_blank">https://support.apple.com/en-us/HT201270</a>
+Será necesario hacer una actualización a los ajustes de operador con algunos móviles de iPhone. Para más información visite <a href="https://support.apple.com/en-us/HT201270" target="\_blank">https://support.apple.com/en-us/HT201270</a>.
