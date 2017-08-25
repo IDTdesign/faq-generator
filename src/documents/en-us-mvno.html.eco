@@ -22,7 +22,7 @@ faqpath: 'mvno/en-us/'
                 <li><%- @partial(@document.faqpath+'my_phone_my_number', false, {render: false}) %></li>
                 <li><%- @partial(@document.faqpath+'my_phone_existing_customer', false, {render: false}) %></li>
             </ul>
-            <div><%- @partial(@document.faqpath+'complete_activation', false, {render: false}) %></div>
+            <div><strong><%- @partial(@document.faqpath+'complete_activation', false, {render: false}) %></strong></div>
         </div>
         <div class="col-xxs-12 col-sm-shrink col-flex-sm">
             <div class="divider divider-vertical-sm flex-grow-sm space-out-v-mili-xxs space-out-v-zero-sm"></div>
@@ -42,15 +42,15 @@ faqpath: 'mvno/en-us/'
                 <li><%- @partial(@document.faqpath+'manage_my_account', false, {render: false}) %></li>
                 <li><%- @partial(@document.faqpath+'usage', false, {render: false}) %></li>
             </ul>
-            <div><%- @partial(@document.faqpath+'billing', false, {render: false}) %></div>
-            <div><%- @partial(@document.faqpath+'mobile_app', false, {render: false}) %></div>
+            <div><strong><%- @partial(@document.faqpath+'billing', false, {render: false}) %></strong></div>
+            <div><strong><%- @partial(@document.faqpath+'mobile_app', false, {render: false}) %></strong></div>
             <div><a class="faq-toc-link" href="#international_calling"><strong>International Calling</strong></a></div>
             <ul class="faq-toc-list">
                 <li><%- @partial(@document.faqpath+'calls', false, {render: false}) %></li>
                 <li><%- @partial(@document.faqpath+'plans', false, {render: false}) %></li>
             </ul>
-            <div><%- @partial(@document.faqpath+'voicemail', false, {render: false}) %></div>
-            <div><%- @partial(@document.faqpath+'lost_or_stolen', false, {render: false}) %></div>
+            <div><strong><%- @partial(@document.faqpath+'voicemail', false, {render: false}) %></strong></div>
+            <div><strong><%- @partial(@document.faqpath+'lost_or_stolen', false, {render: false}) %></strong></div>
         </div>
     </nav>
 </div>

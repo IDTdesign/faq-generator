@@ -40,3 +40,8 @@ Performing an SCRTN is easy and only takes a minute. Enter the appropriate code 
 Allow your phone a few minutes to fully restart.
 
 On some iPhones a Network Update may be needed. On some iPhones a Carrier Update may be needed. For more information see <a href="https://support.apple.com/en-us/HT201270" target="\_blank">https://support.apple.com/en-us/HT201270</a>
+
+1. Go to “Settings”
+2. Select “General”
+3. Select “Reset”
+4. Select “Reset Network Setting”

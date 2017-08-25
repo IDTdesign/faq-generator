@@ -19,16 +19,8 @@ Puedes encontrar el MEID/IMEI usando cualquiera de los siguientes métodos
 Puedes encontrar el número de tarjeta SIM (ICCID) mediante cualquiera de los siguientes métodos
 
 1. Verifica el menú de configuración:
-  * iPhone:
-    1. Go to “Settings.”
-    2. Select “General”
-    3. Select “About”  
-    You can now see your ICCID listed in the About section.
-  * Android phones may vary slightly. To retrieve your ICCID (SIM card number):
-    1. Go to “Settings.”
-    2. Scroll down and select “About” or “About Phone” depending on the model you are using
-    3. Select “Status”
-    4. On some phones your ICCID will now be visible. On other phones select “IMEI Information” first.
+  * iPhone: Ve a Configuración > General > Acerca de
+  * Android: Ve a Configuración > Acerca del teléfono > Estado
 2. Puedes obtener el número de tarjeta SIM expulsándola de la ranura SIM o sacándola de una bandeja del teléfono. Los Androids pueden tener diferentes ubicaciones para la tarjeta SIM. Ocasionalmente, puede requerirse una herramienta SIM o extractor para abrir la bandeja SIM. Si tu teléfono tiene este diseño, simplemente coloca la herramienta o extractor en el pequeño orificio ubicado junto a la bandeja y ya debería abrirse para expulsar la tarjeta SIM
 
 Es mejor apagar tu teléfono durante el proceso de registro.
