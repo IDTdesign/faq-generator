@@ -31,4 +31,4 @@ If the phone belongs to you, you will need to contact your carrier to resolve th
 
 Before you buy a phone make sure it’s coming from a trusted source. Any phones that have ever been classified as lost or stolen will not activate on Boss Revolution Mobile.
 
-Depending on which Carrier network the phone was previously on you may need to purchase a new SIM card that is compatible with Boss Revolution. You can buy one in <a href="http://mobilestore.mvnodepot.com/phones" target="\_blank">Boss Revolution Mobile Shop</a>.
+Depending on which Carrier network the phone was previously on you may need to purchase a new SIM card that is compatible with Boss Revolution. You can buy one in <a href="http://mobilestore.mvnodepot.com/phones" target="_blank">Boss Revolution Mobile Shop</a>.

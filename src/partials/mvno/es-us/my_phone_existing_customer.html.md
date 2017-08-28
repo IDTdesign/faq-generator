@@ -6,7 +6,7 @@ alias: my_phone_existing_customer
 
 Si ya eres un cliente de Boss Revolution Mobile y quieres cambiar a un teléfono nuevo, inicia sesión en tu cuenta y utiliza la función Cambio de Teléfono. Al igual que cuando te inscribiste para nuestro servicio, asegúrate de que antes de comenzar el Cambio de Teléfono hayas ubicado el MEID e ICCID del teléfono. Si tienes un teléfono LTE también necesitarás un número de tarjeta SIM (ICCID) que sea compatible con Boss Revolution Mobile.
 
-Según la red del operador en la que haya estado anteriormente el teléfono, puede que necesites comprar una nueva tarjeta SIM que sea compatible con Boss Revolution. Se venden <a href="http://mobilestore.mvnodepot.com/phones" target="\_blank">aquí</a>.
+Según la red del operador en la que haya estado anteriormente el teléfono, puede que necesites comprar una nueva tarjeta SIM que sea compatible con Boss Revolution. Se venden <a href="http://mobilestore.mvnodepot.com/phones" target="_blank">aquí</a>.
 
 Puedes encontrar el MEID/IMEI usando cualquiera de los siguientes métodos
 

@@ -25,6 +25,6 @@ Puedes encontrar el número de tarjeta SIM (ICCID) mediante cualquiera de los si
 
 Es mejor apagar tu teléfono durante el proceso de registro.
 
-Una vez lista esta información, haz clic en “<a href="register.html" target="\_blank">Únete ahora</a>” desde la página de inicio y sigue las instrucciones. Como obtendrás un nuevo número de teléfono, asegúrate de ingresar información precisa para que podamos asignarte un número de teléfono con el código de área adecuado. Estarás listo para ahorrar dinero con Boss Revolution Moblile en solo pocos minutos.
+Una vez lista esta información, haz clic en “<a href="register.html" target="_blank">Únete ahora</a>” desde la página de inicio y sigue las instrucciones. Como obtendrás un nuevo número de teléfono, asegúrate de ingresar información precisa para que podamos asignarte un número de teléfono con el código de área adecuado. Estarás listo para ahorrar dinero con Boss Revolution Moblile en solo pocos minutos.
 
-Según la red del operador en la que haya estado anteriormente el teléfono, puede que necesites comprar una nueva tarjeta SIM que sea compatible con Boss Revolution. Se venden <a href="http://mobilestore.mvnodepot.com/phones" target="\_blank">aquí</a>.
+Según la red del operador en la que haya estado anteriormente el teléfono, puede que necesites comprar una nueva tarjeta SIM que sea compatible con Boss Revolution. Se venden <a href="http://mobilestore.mvnodepot.com/phones" target="_blank">aquí</a>.

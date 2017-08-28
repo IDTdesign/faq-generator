@@ -30,4 +30,4 @@ Si el teléfono te pertenece, deberás ponerte en contacto con tu operador para 
 
 Antes de comprar un teléfono asegúrate de que viene de una fuente de confianza. Cualquier teléfono que haya sido clasificado como perdido o robado no se activará en Boss Revolution Mobile.
 
-Quizas debas comprar una nueva tarjeta SIM compatible con Boss Revolution dependiendo del operador en el que tu teléfono haya estado previamente. Puedes comprarla ahora en <a href="http://mobilestore.mvnodepot.com/phones" target="\_blank">Boss Revolution Mobile Shop</a>.
+Quizas debas comprar una nueva tarjeta SIM compatible con Boss Revolution dependiendo del operador en el que tu teléfono haya estado previamente. Puedes comprarla ahora en <a href="http://mobilestore.mvnodepot.com/phones" target="_blank">Boss Revolution Mobile Shop</a>.

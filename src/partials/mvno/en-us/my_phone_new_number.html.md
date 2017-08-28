@@ -33,6 +33,6 @@ The ICCID can be found by any of the following methods.
 
 It’s best to turn your device off during the registration process.
 
-Once you have this information click “<a href="register.html" target="\_blank">Join Us</a>” from our home page and follow the simple directions.  Since you are getting a new phone number be sure to enter accurate information so that we can assign you a phone number with the proper area code.  You should be ready to save money with Boss Revolution Mobile in just a few short minutes.
+Once you have this information click “<a href="register.html" target="_blank">Join Us</a>” from our home page and follow the simple directions.  Since you are getting a new phone number be sure to enter accurate information so that we can assign you a phone number with the proper area code.  You should be ready to save money with Boss Revolution Mobile in just a few short minutes.
 
-Depending on which Carrier network the phone was previously on you may need to purchase a new SIM card that is compatible with Boss Revolution.  They are sold in <a href="http://mobilestore.mvnodepot.com/phones" target="\_blank">Boss Revolution Mobile Shop</a>.
+Depending on which Carrier network the phone was previously on you may need to purchase a new SIM card that is compatible with Boss Revolution.  They are sold in <a href="http://mobilestore.mvnodepot.com/phones" target="_blank">Boss Revolution Mobile Shop</a>.

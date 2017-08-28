@@ -23,7 +23,7 @@ Puedes encontrar el número de tarjeta SIM (ICCID) mediante cualquiera de los si
   * Android: Ve a Configuración > Acerca del teléfono > Estado
 2. Puedes obtener el número de tarjeta SIM expulsándola de la ranura SIM o sacándola de una bandeja del teléfono. Los Androids pueden tener diferentes ubicaciones para la tarjeta SIM. Ocasionalmente, puede requerirse una herramienta SIM o extractor para abrir la bandeja SIM. Si tu teléfono tiene este diseño, simplemente coloca la herramienta o extractor en el pequeño orificio ubicado junto a la bandeja y ya debería abrirse para expulsar la tarjeta SIM
 
-Según la red del operador en la que haya estado anteriormente el teléfono, puede que necesites comprar una nueva tarjeta SIM que sea compatible con Boss Revolution. Se venden <a href="http://mobilestore.mvnodepot.com/phones" target="\_blank">aquí</a>.
+Según la red del operador en la que haya estado anteriormente el teléfono, puede que necesites comprar una nueva tarjeta SIM que sea compatible con Boss Revolution. Se venden <a href="http://mobilestore.mvnodepot.com/phones" target="_blank">aquí</a>.
 
 Es mejor apagar tu teléfono durante el proceso de registración.
 

@@ -6,7 +6,7 @@ alias: my_phone_existing_customer
 
 If you are already a Boss Revolution Mobile customer and you want to switch to a new device, log into your account and use the Swap Device feature.  Just like when you signed up for our service make sure that before you start the Device Swap you have located the device’s MEID or IMEI.  If you have an LTE phone you will also need a SIM card number (ICCID) that is compatible with Boss Revolution.
 
-Depending on which Carrier network the phone was previously on you may need to purchase a new SIM card that is compatible with Boss Revolution.  They are sold in <a href="http://mobilestore.mvnodepot.com/phones" target="\_blank">Boss Revolution Mobile Shop</a>.
+Depending on which Carrier network the phone was previously on you may need to purchase a new SIM card that is compatible with Boss Revolution.  They are sold in <a href="http://mobilestore.mvnodepot.com/phones" target="_blank">Boss Revolution Mobile Shop</a>.
 
 The MEID or IMEI can be found by using any of the following methods
 

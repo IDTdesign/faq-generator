@@ -10,7 +10,7 @@ Además, deberás asegurarte de tener tu número de teléfono, número de cuenta
 
 No enciendas el teléfono hasta obtener la confirmación de que tu número de teléfono ha sido transferido.
 
-Una vez lista esta información, haz clic en el botón de “<a href="register.html" target="\_blank">Unete Ahora</a>” en la página de inicio y sigue las instrucciones. El proceso de registración demorara solo unos pocos minutos en completarse pero la transferencia de tu número demorará un poco más. Por lo general, solo demora aproximadamente dos horas. Sin embargo, los números móviles a veces demoran hasta 24 horas y los números fijos podrían demorar hasta 7 días.
+Una vez lista esta información, haz clic en el botón de “<a href="register.html" target="_blank">Unete Ahora</a>” en la página de inicio y sigue las instrucciones. El proceso de registración demorara solo unos pocos minutos en completarse pero la transferencia de tu número demorará un poco más. Por lo general, solo demora aproximadamente dos horas. Sin embargo, los números móviles a veces demoran hasta 24 horas y los números fijos podrían demorar hasta 7 días.
 
 Te mantendremos actualizado con el estado de tu activación si nos provees una dirección de correo electrónico durante el proceso registración o siguiendo las instrucciones en pantalla al completarse la registración.
 
