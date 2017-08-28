@@ -11,6 +11,7 @@ The result rendered as html page.
 ## Run 
 
 `docpad run` — then open http://localhost:9778
+`gulp` — prettify html output
 
 ## Hack
 
